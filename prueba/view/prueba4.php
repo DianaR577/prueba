@@ -1,0 +1,1 @@
+4.- recorrer un array que contenga 10 nombres y me imprima en pantalla el nombre de acuerdo a la posición que le indiquiemos en un formulario
